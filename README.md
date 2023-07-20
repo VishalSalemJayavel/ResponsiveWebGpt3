@@ -47,5 +47,3 @@ Thank you for visiting and exploring this project! If you have any questions or 
 
 Happy coding! 😊
 
----
-*Note: Replace LICENSE.md with the actual name of the license file if it's different, and add the license file to the project directory.*
